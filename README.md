@@ -202,7 +202,7 @@ p.note { display: none; }
 <br><br><br>
 
 <h2><span class="yellow">宇都宮市HPのゴミの出し方ページ、リンク貼ります</span></h2>
-    <h2><a href="https://www.city.utsunomiya.lg.jp/kurashi/gomi/kateigomi/index.html" target="_blank"><span class="snow">家庭から出るごみ</span></a></h2>
+    <h2><a href="https://www.city.utsunomiya.lg.jp/kurashi/gomi/kateigomi/index.html" target="_blank"><span class="blue">家庭から出るごみ</span></a></h2>
 
 <!-- hitwebcounter Code START --> <!--
 <a href="https://www.hitwebcounter.com" target="_blank">
