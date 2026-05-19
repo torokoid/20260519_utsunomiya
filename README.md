@@ -193,7 +193,12 @@ p.note { display: none; }
 <a href="20260519_022.JPG" target="_blank"><img src="20260519_022.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260519_023.JPG" target="_blank"><img src="20260519_023.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<br><br><br>
+<h2><span class="yellow">岡本エリアのごみ収集日</span></h2>
+<a href="20260519_024.JPG" target="_blank"><img src="20260519_024.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">第三木曜日に資源ごみを出すと、町内会費に費用補填されます</span></h2>
+<a href="20260519_025.JPG" target="_blank"><img src="20260519_025.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <br><br><br>
 <h2><span class="yellow">2026May19、資源物とゴミの分け方・出し方でした</span></h2>
@@ -202,7 +207,7 @@ p.note { display: none; }
 <br><br><br>
 
 <h2><span class="yellow">宇都宮市HPのゴミの出し方ページ、リンク貼ります</span></h2>
-    <h2><a href="https://www.city.utsunomiya.lg.jp/kurashi/gomi/kateigomi/index.html" target="_blank"><span class="blue">リンク → 家庭から出るごみ</span></a></h2>
+    <h1><a href="https://www.city.utsunomiya.lg.jp/kurashi/gomi/kateigomi/index.html" target="_blank"><span class="blue">リンク → 家庭から出るごみ</span></a></h1>
 
 <!-- hitwebcounter Code START --> <!--
 <a href="https://www.hitwebcounter.com" target="_blank">
