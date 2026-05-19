@@ -194,7 +194,7 @@ p.note { display: none; }
 <a href="20260519_023.JPG" target="_blank"><img src="20260519_023.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <br><br><br>
-<h2><span class="yellow">岡本エリアのごみ収集日</span></h2>
+<h2><span class="yellow">中岡本町のごみ収集日</span></h2>
 <a href="20260519_024.JPG" target="_blank"><img src="20260519_024.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">第三木曜日に資源ごみを出すと、町内会費に費用補填されます</span></h2>
