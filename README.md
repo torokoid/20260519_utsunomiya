@@ -196,7 +196,7 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">2026May19、資源物とゴミの分け方・出し方でした<br>Thank you for reading this far.</span></h2>
+<h2><span class="yellow">2026May19、資源物とゴミの分け方・出し方でした</span></h2>
 
 
 <br><br><br>
