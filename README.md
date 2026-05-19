@@ -168,7 +168,7 @@ p.note { display: none; }
 
 <div class="media-container">
 
-<h2><span class="yellow">以下、パンフレットの画像です</span></h2>
+<h2><span class="yellow">以下、パンフレットの画像です<br>各画像はクリックすると１ページ表示します</span></h2>
 <a href="20260519_001.JPG" target="_blank"><img src="20260519_001.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260519_002.JPG" target="_blank"><img src="20260519_002.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260519_003.JPG" target="_blank"><img src="20260519_003.JPG" alt="サンプル画像" class="responsive-media"></a>
