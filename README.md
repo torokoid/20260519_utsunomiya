@@ -235,7 +235,11 @@ p.note { display: none; }
 <a href="20260519_031.png" target="_blank"><img src="20260519_031.png" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260519_032.png" target="_blank"><img src="20260519_032.png" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260519_033.png" target="_blank"><img src="20260519_033.png" alt="サンプル画像" class="responsive-media"></a>
+
+<!--
 <a href="20260519_022.JPG" target="_blank"><img src="20260519_022.JPG" alt="サンプル画像" class="responsive-media"></a>
+-->
+
 <a href="20260519_023.JPG" target="_blank"><img src="20260519_023.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <br><br><br>
