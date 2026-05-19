@@ -201,6 +201,9 @@ p.note { display: none; }
 
 <br><br><br>
 
+<h2><span class="yellow">宇都宮市HPのゴミの出し方ページ、リンク貼ります</span></h2>
+    <h2><a href="https://www.city.utsunomiya.lg.jp/kurashi/gomi/kateigomi/index.html" target="_blank"><span class="snow">家庭から出るごみ</span></a></h2>
+
 <!-- hitwebcounter Code START --> <!--
 <a href="https://www.hitwebcounter.com" target="_blank">
 <p>you are <img src="https://hitwebcounter.com/counter/counter.php?page=21345151&style=0018&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />visitor<br>The numbers are cumulative for the Bangkok series websites launched since August 1st.</p></a> 
