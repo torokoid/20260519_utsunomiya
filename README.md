@@ -288,7 +288,12 @@ p.note { display: none; }
 <!--画面に空白地帯を作って、背景が見えるようにしています-->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-
+<h2><span class="yellow">HPへのアクセス数</span></h2>
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com/" target="_blank" rel="noopener" title="Counter Tools PDF Character">
+<img src="https://www.hitwebcounter.com/counter/counter.php?page=21499518&amp;style=0018&amp;nbdigits=5&amp;type=page" alt="Counter Tools PDF Character" decoding="async" style="border:0;max-width:100%;height:auto;" />
+</a>
+<!-- hitwebcounter Code END -->
 
 <!-- フッタ -->
 <footer>
