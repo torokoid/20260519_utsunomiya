@@ -249,6 +249,10 @@ p.note { display: none; }
 <h2><span class="yellow">第三木曜日に資源ごみを出すと、町内会費に費用補填されます</span></h2>
 <a href="20260519_025.JPG" target="_blank"><img src="20260519_025.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<br><br>
+<h2><span class="yellow">2026/05/21(第3木曜日)の収集実績</span></h2>
+<a href="20260519_027.JPG" target="_blank"><img src="20260519_027.JPG" alt="サンプル画像" class="responsive-media"></a>
+
 <br><br><br>
 <h2><span class="yellow">2026May19、資源物とゴミの分け方・出し方でした</span></h2>
 
