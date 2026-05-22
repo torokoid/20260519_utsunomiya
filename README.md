@@ -153,7 +153,7 @@ p.note { display: none; }
 
 <!--QRコードの挿入例-->
 <p align="left"> <img src="QR_2026May19.png" alt="アクセス用QRコード" width="100">QR for Access</p>
-<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~S.Hada</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="20" width="50%">(^_^)/~Utsunomiya</marquee></p>
 
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2026/05/19、資源物とゴミの分け方・出し方 !!!</marquee></span></h1>
@@ -297,7 +297,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2026/05/19 S.Hada</p>
+<p>Copyright 2026/05/19 Utsunomiya</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
