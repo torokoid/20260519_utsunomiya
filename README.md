@@ -250,7 +250,7 @@ p.note { display: none; }
 <a href="20260519_025.JPG" target="_blank"><img src="20260519_025.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <br><br>
-<h2><span class="yellow">2026/05/21(第三木曜日)の収集実績<br>雨でしたがダンボールにはネットを2重にかけて濡れかたを減らす配慮も見られました</span></h2>
+<h2><span class="yellow">2026/05/21(第三木曜日)、中岡本町15、16班エリアの収集実績<br>雨でしたがダンボールにはネットを2重にかけて濡れかたを減らす配慮も見られました</span></h2>
 <a href="20260519_027.JPG" target="_blank"><img src="20260519_027.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <br><br><br>
