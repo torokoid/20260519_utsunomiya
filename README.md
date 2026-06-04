@@ -268,7 +268,7 @@ p.note { display: none; }
 <p align="left"> <img src="QR_545579.png" alt="アクセス用QRコード" width="100">QR for Access</p><br><br>
 
 <h2><span class="yellow">スマホ教室のチラシへのリンクも貼っておきます、リンクの文字クリックでページに飛びます</span></h2>
-    <h1><a href="https://sites.google.com/view/kawachishakyo/ほのぼのスマホ教室/チラシ?authuser=0" target="_blank"><span class="blue">リンク → ほのぼのスマホ教室</span></a></h1>
+    <h1><a href="https://sites.google.com/view/kawachishakyo/ほのぼのスマホ教室/チラシ?authuser=0" target="_blank"><span class="blue">リンク → ほのぼのスマホ教室チラシ</span></a></h1>
 
 <!-- hitwebcounter Code START --> <!--
 <a href="https://www.hitwebcounter.com" target="_blank">
