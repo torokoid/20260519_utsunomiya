@@ -262,6 +262,14 @@ p.note { display: none; }
 <h2><span class="yellow">宇都宮市HPのゴミの出し方ページ、リンク貼ります</span></h2>
     <h1><a href="https://www.city.utsunomiya.lg.jp/kurashi/gomi/kateigomi/index.html" target="_blank"><span class="blue">リンク → 家庭から出るごみ</span></a></h1>
 
+<br><br><br>
+
+<h2><span class="yellow">2026年6月1日、回覧チラシ「ほのぼの、第37号」にてスマホ教室の情報が共有されました<br>共有方法は今風のQRコード</span></h2>
+<p align="left"> <img src="QR_545579" alt="アクセス用QRコード" width="100">QR for Access</p><br><br>
+
+<h2><span class="yellow">スマホ教室のチラシへのリンクも貼っておきます、リンクの文字クリックでページに飛びます</span></h2>
+    <h1><a href="https://sites.google.com/view/kawachishakyo/ほのぼのスマホ教室/チラシ?authuser=0" target="_blank"><span class="blue">リンク → ほのぼのスマホ教室</span></a></h1>
+
 <!-- hitwebcounter Code START --> <!--
 <a href="https://www.hitwebcounter.com" target="_blank">
 <p>you are <img src="https://hitwebcounter.com/counter/counter.php?page=21345151&style=0018&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />visitor<br>The numbers are cumulative for the Bangkok series websites launched since August 1st.</p></a> 
