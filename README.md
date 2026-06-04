@@ -267,8 +267,11 @@ p.note { display: none; }
 <h2><span class="yellow">2026年6月1日、宇都宮市河内地区社会福祉協議会の回覧チラシ「ほのぼの、第37号」にてスマホ教室の情報が共有されました<br>共有方法はQRコード</span></h2>
 <p align="left"> <img src="QR_545579.png" alt="アクセス用QRコード" width="100">QR for Access</p><br><br>
 
-<h2><span class="yellow">スマホ教室のチラシへのリンクも貼っておきます、リンクの文字クリックでページに飛びます</span></h2>
-    <h1><a href="https://sites.google.com/view/kawachishakyo/ほのぼのスマホ教室/チラシ?authuser=0" target="_blank"><span class="blue">リンク → ほのぼのスマホ教室チラシ</span></a></h1>
+<h2><span class="yellow">スマホ教室のチラシとテキストへのリンクも貼っておきます、リンクの文字クリックでページに飛びます</span></h2>
+    <h1><a href="https://sites.google.com/view/kawachishakyo/ほのぼのスマホ教室/チラシ?authuser=0" target="_blank"><span class="blue">リンク → ほのぼのスマホ教室チラシ</span>
+    <h1><a href="https://sites.google.com/view/kawachishakyo/ほのぼのスマホ教室/テキスト?authuser=0" target="_blank"><span class="blue">リンク → ほのぼのスマホ教室テキスト</span>
+    
+</a></h1>
 
 <!-- hitwebcounter Code START --> <!--
 <a href="https://www.hitwebcounter.com" target="_blank">
